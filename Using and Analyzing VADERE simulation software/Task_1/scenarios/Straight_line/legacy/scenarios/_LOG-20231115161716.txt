@@ -1,0 +1,3 @@
+Info:Analyzing scenario file scenarios/Straight_line
+ERROR:release version 3.0 is unknown or not supported. If this is a valid release create a version transformation and a new idenity transformation
+ERROR:!> Can't migrate the scenario to latest version, removed it from the directory (release version 3.0 is unknown or not supported. If this is a valid releasecreate a version transformation and a new idenity transformation) If you can fix this problem manually, do so and then remove .nonmigratable from the file in the legacy-directory and move it back into the scenarios-directory, it will be checked again when the GUI restarts.
